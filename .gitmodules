@@ -1,0 +1,9 @@
+[submodule "taller_002_tipos_datos_y_operaciones_basicas"]
+	path = taller_002_tipos_datos_y_operaciones_basicas
+	url = https://github.com/PyLadiesMadrid/taller_002_tipos_datos_y_operaciones_basicas
+[submodule "taller_003_condicionales_bucles_funciones"]
+	path = taller_003_condicionales_bucles_funciones
+	url = https://github.com/PyLadiesMadrid/taller_003_condicionales_bucles_funciones
+[submodule "taller_001_instalacion_y_primeros_pasos"]
+	path = taller_001_instalacion_y_primeros_pasos
+	url = https://github.com/PyLadiesMadrid/taller_001_instalacion_y_primeros_pasos
