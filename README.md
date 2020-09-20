@@ -4,3 +4,6 @@ Guías y recursos para iniciarte en la programación con Python sin conocimiento
 
 ## Learner personas
 En construcción
+
+## Indice de contenidos
+En construcción
