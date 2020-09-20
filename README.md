@@ -1,2 +1,2 @@
-# taller-iniciacion-python
-Taller de iniciación a Python
+# Taller de iniciación a Python
+
